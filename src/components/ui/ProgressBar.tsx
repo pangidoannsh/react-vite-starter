@@ -1,11 +1,11 @@
 import { FC } from 'react';
 
-const Home: FC = () => {
+const ProgessBar: FC = () => {
     return (
         <div>
-            Home Page
+
         </div>
     );
-}
+};
 
-export default Home;
+export default ProgessBar;
